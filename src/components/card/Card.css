@@ -1,0 +1,10 @@
+.card{
+  background-color: #ffeb7a;
+  padding: 10px;
+  border-radius: 15px;
+  border-color: #ffd900;
+}
+
+.card--important{
+  background-color: #ffd900;
+}
